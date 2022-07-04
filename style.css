@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.s1{
+    display: flex;
+}
+.s1 .d1{
+    width: 30%;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.s1 .d2{
+    background-image: url(./img/Group\ 8447.png);
+    margin-top: 50px;
+    background-repeat: no-repeat;
+}
+.s1 .d2 img{
+    margin-bottom: -4px;
+}
+.d1 h1{
+    font-size: 53px;
+    line-height: 60px;
+}
+.d1 h1 span{
+    color: rgb(4, 255, 50);
+}
+.d1 p{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.d1 a{
+    background-image: linear-gradient(red ,tomato);
+    padding: 7px 17px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: beige;
+    border-radius: 20px;
+}
