@@ -40,3 +40,37 @@
     color: beige;
     border-radius: 20px;
 }
+
+.div{
+    background-image: url(./img/7.png);
+    margin-top: 70px;
+}
+
+.s2{
+    display: flex;
+}
+.s2 .d4{
+    width: 550px;
+    margin-left: 180px;
+    margin-top: 90px;
+}
+.d4 h1{
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.d4 h1 span{
+    color: red;
+}
+.d4 p{
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.d4 a{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 8px 19px;
+    background-image: linear-gradient(tomato,red,blue, rgb(157, 255, 0));
+    border-radius: 20px;
+    color: white;
+}
